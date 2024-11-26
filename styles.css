@@ -3,3 +3,7 @@ h3{
     text-decoration: underline;
     font-family: 'Times New Roman', Times, serif;
 }
+p{
+    color:red;
+    font-size: large;
+}
