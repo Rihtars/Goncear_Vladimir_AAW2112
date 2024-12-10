@@ -9,3 +9,8 @@ p{
     cursor: pointer;
     font-weight: bold;
 }
+h1{
+    font-size: 40px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
